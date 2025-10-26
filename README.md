@@ -514,7 +514,7 @@ MIT License - feel free to use this in your projects!
 
 Questions? Reach out:
 - GitHub Issues: [Create an issue](https://github.com/yourusername/powerpoint-ai-pipeline/issues)
-- Email: your.email@example.com
+- Email: patidishant32@gmail.com
 
 ---
 
